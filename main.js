@@ -6,6 +6,14 @@ const FULL_HEART = '♥'
 
 
 
+ 
+ 
+  
+ 
+
+
+
+
 
 //------------------------------------------------------------------------------
 // Don't change the code below: this function mocks the server response
@@ -23,3 +31,6 @@ function mimicServerCall(url="http://mimicServer.example.com", config={}) {
     }, 300);
   });
 }
+
+
+  
